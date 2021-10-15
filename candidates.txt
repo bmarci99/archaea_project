@@ -1,0 +1,18 @@
+
+HSP70 & mcrA output
+
+Proteome 03 3 HSP 1 mcrA
+Proteome 05 2 HSP 1 mcrA
+Proteome 07 2 HSP 1 mcrA
+Proteome 15 1 HSP 1 mcrA
+Proteome 16 1 HSP 1 mcrA
+Proteome 19 1 HSP 2 mcrA
+Proteome 23 2 HSP 2 mcrA
+Proteome 24 2 HSP 1 mcrA
+Proteome 38 1 HSP 1 mcrA
+Proteome 39 1 HSP 1 mcrA
+Proteome 42 3 HSP 1 mcrA
+Proteome 44 1 HSP 1 mcrA
+Proteome 45 3 HSP 1 mcrA
+Proteome 48 1 HSP 1 mcrA
+Proteome 50 3 HSP 1 mcrA
